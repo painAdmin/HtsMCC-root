@@ -5,8 +5,7 @@
   <parent>
     <groupId>com.huatech</groupId>
     <artifactId>HtsMCC-root</artifactId>
-    <relativePath>../</relativePath>
-    <version>1.0</version>
+    <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>com.huatech</groupId>
   <artifactId>HtsMCC-web</artifactId>
@@ -21,7 +20,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
+     <dependency>
        <groupId>com.huatech</groupId>
        <artifactId>HtsMCC-core</artifactId>
        <version>1.0</version>
