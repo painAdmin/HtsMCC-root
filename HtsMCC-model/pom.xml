@@ -5,11 +5,11 @@
   <parent>
     <groupId>com.huatech</groupId>
     <artifactId>HtsMCC-root</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
   </parent>
   <groupId>com.huatech</groupId>
   <artifactId>HtsMCC-model</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0</version>
   <name>HtsMCC-model</name>
   <url>http://maven.apache.org</url>
   <properties>
